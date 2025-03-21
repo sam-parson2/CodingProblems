@@ -1,5 +1,6 @@
 # Array Manipulation
 
+[Link](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)
 ## Problem Statement
 Given an array of `n` zeros (1-indexed) and a list of operations, perform each operation by adding a value to all elements between two given indices (inclusive). After performing all operations, find and return the maximum value in the array.
 
